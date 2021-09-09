@@ -757,7 +757,7 @@ span.name-span {
        font-size: 3.5rem;
    }
    .rooms-container {
-       margin: 0 auto;
+       margin-left: 3rem;
    }
    .room {
        width: 35rem;
@@ -770,6 +770,10 @@ span.name-span {
     margin-top: 2rem;
     width: 25rem;
    }
+   .book-now {
+    padding: .5rem 1rem;
+    font-size: 1.4rem;
+}
 
 }
 
@@ -777,10 +781,7 @@ span.name-span {
     html {
         font-size: 45%;
     }
-    .book-now {
-        padding: .5rem 1rem;
-        font-size: 1.4rem;
-    }
+  
     .about-us-images img {
         width: 20rem;
     }
