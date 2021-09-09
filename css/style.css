@@ -691,9 +691,7 @@ span.name-span {
     }
 }
 @media(max-width:1200px) {
-    html {
-        font-size: 50%;
-    }
+  
     .about-us {
         flex-direction: column;
         padding-bottom: 20rem;
