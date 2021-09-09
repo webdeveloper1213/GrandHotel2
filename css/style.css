@@ -707,6 +707,12 @@ span.name-span {
 .about-us-images img {
     width: 25rem;
 }
+.change .line3 {
+    width: 2.5rem;
+    transform: rotate(
+-45deg
+) translate(10px , -5px);
+}
 }
 @media(max-width:900px) {
     .banner h1 {
