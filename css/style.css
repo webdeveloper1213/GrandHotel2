@@ -756,13 +756,7 @@ span.name-span {
    .section-heading {
        font-size: 3.5rem;
    }
-   .rooms-container {
-       margin-left: 3rem;
-   }
-   .room {
-       width: 35rem;
-       margin-left: 3rem;
-   }
+  
    .footer-form {
        flex-direction: column;
    }
@@ -797,6 +791,13 @@ span.name-span {
 }
 .search {
     width: 25rem;
+}
+.rooms-container {
+    margin-left: 3rem;
+}
+.room {
+    width: 35rem;
+    margin-left: 3rem;
 }
 /* .change .line1 {
     width: 2.5rem;
