@@ -756,6 +756,9 @@ span.name-span {
    .section-heading {
        font-size: 3.5rem;
    }
+   .rooms-container {
+       margin: 0 auto;
+   }
    .room {
        width: 35rem;
        margin-left: 3rem;
