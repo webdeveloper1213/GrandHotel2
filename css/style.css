@@ -799,6 +799,9 @@ span.name-span {
     width: 35rem;
     margin-left: 3rem;
 }
+.room-content {
+    flex-direction: column;
+}
 /* .change .line1 {
     width: 2.5rem;
     transform: rotate( 
