@@ -758,6 +758,7 @@ span.name-span {
    }
    .room {
        width: 35rem;
+       margin-left: 3rem;
    }
    .footer-form {
        flex-direction: column;
