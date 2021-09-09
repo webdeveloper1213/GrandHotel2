@@ -779,4 +779,10 @@ span.name-span {
 .search {
     width: 25rem;
 }
+.change .line1 {
+    width: 2.5rem;
+    transform: rotate( 
+45deg
+ ) translate(7px , 2px);
+}
 }
