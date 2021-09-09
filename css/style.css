@@ -759,6 +759,13 @@ span.name-span {
    .room {
        width: 35rem;
    }
+   .footer-form {
+       flex-direction: column;
+   }
+   .sign-up {
+    margin-top: 2rem;
+    width: 25rem;
+   }
 
 }
 
