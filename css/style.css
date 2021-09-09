@@ -801,6 +801,7 @@ span.name-span {
 }
 .room-content {
     flex-direction: column;
+    align-items: left;
 }
 /* .change .line1 {
     width: 2.5rem;
