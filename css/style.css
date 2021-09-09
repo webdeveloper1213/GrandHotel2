@@ -772,19 +772,19 @@ span.name-span {
         left: 8rem;
         width: 92%;
     }
-    /* .change .line1 {
+    .change .line1 {
         width: 2.5rem;
         transform: rotate(
     45deg
     ) translate(10px , 4px);
-} */
+}
 .search {
     width: 25rem;
 }
-.change .line1 {
+/* .change .line1 {
     width: 2.5rem;
     transform: rotate( 
 45deg
  ) translate(7px , 2px);
-}
+} */
 }
