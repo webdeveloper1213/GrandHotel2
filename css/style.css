@@ -752,6 +752,9 @@ span.name-span {
     .copyright {
         order: 1;
     }
+    .room {
+        margin: 5rem;
+    }
 
 }
 
