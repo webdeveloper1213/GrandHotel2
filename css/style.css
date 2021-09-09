@@ -724,9 +724,7 @@ span.name-span {
     .sub-heading {
         font-size: 3rem;
     }
-    .room {
-        margin: 5rem;
-    }
+   
 }
 @media(max-width:550px) {
     .review {
