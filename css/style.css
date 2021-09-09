@@ -709,10 +709,10 @@ span.name-span {
 }
 @media(max-width:900px) {
     .banner h1 {
-        font-size: 3rem;
+        font-size: 5rem;
     }
     .banner p {
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
     .sub-heading {
         font-size: 3rem;
