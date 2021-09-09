@@ -736,6 +736,15 @@ span.name-span {
     .copyright {
         order: 1;
     }
+    .banner h1 {
+        font-size: 3rem;
+    }
+    .banner p {
+        font-size: 2rem;
+    }
+    .sub-heading {
+        font-size: 3rem;
+    }
 }
 
 @media(max-width:500px) {
