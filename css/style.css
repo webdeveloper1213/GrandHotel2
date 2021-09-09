@@ -793,8 +793,7 @@ span.name-span {
     width: 25rem;
 }
 .room-content {
-    flex-direction: column;
-    align-items: left;
+   padding-bottom: 0;
     display: block;
 }
 .rooms-container {
