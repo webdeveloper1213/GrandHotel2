@@ -779,10 +779,9 @@ span.name-span {
     .about-us-images img {
         width: 20rem;
     }
-    .change .navigation {
-        left: 8rem;
-        width: 92%;
-    }
+   .navigation {
+       width: 28rem;
+   }
     .change .line1 {
         width: 2.5rem;
         transform: rotate(
